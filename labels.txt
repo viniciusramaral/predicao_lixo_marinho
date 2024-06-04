@@ -1,0 +1,7 @@
+0 agua_viva
+1 garrafas_pet
+2 lixo_marinho
+3 poluicao
+4 redes_de_pesca
+5 sacolas_plasticas
+6 plasticos
